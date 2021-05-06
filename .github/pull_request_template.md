@@ -1,9 +1,4 @@
-# Pull request a week in the course
-
-**Week #.**
-
-Let's finish another week! Please check all requirements before pull request.
-Hope you've enjoyed and learned something... preferably something useful!
+# D1AED: Week #.
 
 ## Week description
 
