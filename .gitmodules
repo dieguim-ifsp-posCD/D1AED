@@ -1,3 +1,4 @@
 [submodule "repositorio-curso"]
 	path = repositorio-curso
 	url = https://github.com/dieguim-ifsp-posCD/IFSP-CMP-D1AED-2021.1.git
+	branch = studing-mods
